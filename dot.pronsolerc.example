@@ -1,0 +1,9 @@
+set port /dev/ttyACM0
+set project_tiempo_exposicion 3
+set project_pausa 1.6
+set project_velocidad_z 200
+set project_elevacion 2
+set project_x_proyectada 181.0
+set project_x 1024
+set project_y 768
+set project_primera_capa 60
